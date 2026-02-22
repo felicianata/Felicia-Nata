@@ -1,13 +1,17 @@
 # Felicia Nata – Certifications Portfolio
 
-Below is a list of my professional certifications and academic credentials.
+This repository contains my professional certifications and academic credentials, structured by specialization.
 
-## Professional Certifications
-- Certified Treasury Professional (CTP) – 2025
-- Microsoft
-- Corporate Finance Institution (CFI)
+## 01 – Treasury
+Certified Treasury Professional (CTP) and risk management credentials.
 
-## Academic
-- M.Sc. in Finance – Umeå University (2023–2025)
+## 02 – Finance Modeling
+Financial modeling, valuation, FP&A, and financial markets certifications.
 
-All documents are provided in PDF format.
+## 03 – Academic
+Bachelor and Master degrees in Finance and Economics.
+
+## 04 – Data Analytics
+Power BI, data modeling, and analytics certifications.
+
+All documents are provided in PDF format for professional portfolio purposes.
